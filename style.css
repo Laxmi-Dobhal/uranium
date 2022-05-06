@@ -1,0 +1,37 @@
+
+h3{
+    padding-top: 10px;
+  color:pink;
+font-size:small;
+font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    border: 15px solid blue;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    border-radius: 5px;
+}
+#joke{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+.joke{
+    font-size: large;
+    font-style:normal;
+    color: black;
+}
+#JokeBtn{
+
+    background-color: purple;
+}
+.btn{
+    margin: auto;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    color:white;
+}
